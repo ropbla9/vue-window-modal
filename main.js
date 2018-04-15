@@ -8,4 +8,4 @@ const install = (Vue) => {
   })
 }
 
-module.exports = { install }
+export default { install }
