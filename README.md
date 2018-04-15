@@ -30,3 +30,5 @@ Simple window like modal for Vue.js
         </vue-window-modal>
 
 It's not well written but properly working. Feel free to pull request.
+
+PS: Since it's not pre-compiled you will need a blunder (webpack) to run into your project. 
