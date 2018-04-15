@@ -1,6 +1,9 @@
+
 # vue-window-modal
 
 Simple window like modal for Vue.js
+
+![`!\[Alt Text\](https://media.giphy.com/media/63Jv8Vy8bK0OHYURYQ/giphy.gif)`](https://media.giphy.com/media/63Jv8Vy8bK0OHYURYQ/giphy.gif)
 
 **Install**
 
