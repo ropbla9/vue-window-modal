@@ -41,7 +41,7 @@
     <div
         :id="windowId"
         class="vue-window-modal"
-        :style="{width, height}">
+        :style="{width, height, backgroundColor}">
         <div :id="windowId + '-' + 'header'" class="vue-window-modal-header">
             <h2>{{title}}</h2>
             <img src="./close.png" @click="$emit('clickClose')">
@@ -74,6 +74,10 @@
             height: {
                 type: String,
                 default: '600px'
+            },
+            backgroundColor: {
+                type: String,
+                default: '#f2f2f2'
             }
         },
         methods: {
