@@ -2,7 +2,7 @@
     .vue-window-modal {
         position: fixed;
         background-color: #f7f7f7;
-        box-shadow: 7px 7px 25px 5px rgba(0,0,0,0.1);
+        box-shadow: 7px 7px 50px 5px rgba(0,0,0,0.13);
         border: 1px solid #8080802b;
         border-radius: 3px;
         display: none;
