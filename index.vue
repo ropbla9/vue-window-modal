@@ -197,6 +197,7 @@
             this.getThisWindowAndHeaderElements().window.addEventListener('click', () => {
                 this.sendWindowToHighest()
             })
+            this.getThisWindowAndHeaderElements().window.style.zIndex = 9999
         }
     }
 
