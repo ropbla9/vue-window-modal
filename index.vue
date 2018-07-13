@@ -6,6 +6,8 @@
         border: 1px solid #8080802b;
         border-radius: 3px;
         display: none;
+        max-height: 90vh;
+        max-width: 90vw;
     }
 
     .vue-window-modal .vue-window-modal-header {
